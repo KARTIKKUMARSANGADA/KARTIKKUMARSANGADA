@@ -109,3 +109,9 @@ This reflects active work on **backend APIs and Python learning projects**.
 ---
 
 ⭐ *Always learning and building scalable backend systems.*
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KARTIKKUMARSANGADA/KARTIKKUMARSANGADA/output/snake.svg" />
+</p>
