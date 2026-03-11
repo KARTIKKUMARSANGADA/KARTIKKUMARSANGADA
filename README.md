@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi there! 
 
 
 I'm **KARTIKKUMAR SANGADA**, a Backend-focused software engineer at **BrainerHub**. I build reliable, high-performance APIs and data-driven services using Python and FastAPI. 🚀
