@@ -1,99 +1,136 @@
-## Hi there! 
+# Hi there 👋 I'm Kartikkumar Sangada
 
+🚀 **Backend-Focused Software Engineer | Python & FastAPI Developer**
 
-I'm **KARTIKKUMAR SANGADA**, a Backend-focused software engineer at **BrainerHub**. I build reliable, high-performance APIs and data-driven services using Python and FastAPI. 🚀
+I build reliable, scalable backend systems and high-performance APIs using **Python and FastAPI**.
+My focus is on turning backend logic into **production-ready APIs and dependable data services**.
 
-Tagline: Turning Python skills into production-ready APIs and dependable data pipelines.
+---
 
-## About Me
+## 👨‍💻 About Me
 
-- Name: **KARTIKKUMAR SANGADA**
-- Role: Backend / API Developer (Python & FastAPI)
-- Company: **BrainerHub Solutions**
-- Location: **DAHOD**
-- Email: [kartiksangada2004@gmail.com](mailto:kartiksangada2004@gmail.com)
-- LinkedIn: [www.linkedin.com/in/kartik-sangada-ba8224339](https://www.linkedin.com/in/kartik-sangada-ba8224339)
+* **Name:** Kartikkumar Sangada
+* **Role:** Backend / API Developer (Python & FastAPI)
+* **Company:** BrainerHub Solutions
+* **Location:** Dahod, India
+* **Email:** [kartiksangada2004@gmail.com](mailto:kartiksangada2004@gmail.com)
+* **LinkedIn:** https://www.linkedin.com/in/kartik-sangada-ba8224339
 
-I focus on building robust backend services with Python (FastAPI) and working with relational databases (Postgres, MySQL, SQLite). I also work with data tooling like NumPy and pandas and handle integrations such as Twilio and Mailgun for communications. I enjoy learning best practices for API design, reliability, and performance.
+💡 I specialize in backend development using **Python, FastAPI, and relational databases** such as PostgreSQL and MySQL.
+I also work with **data tools (NumPy, Pandas)** and integrate third-party services like **Twilio and Mailgun** for messaging and email systems.
 
-Currently working on: improving API test coverage and deploying FastAPI projects for production use. 🔧
+Currently focusing on:
 
-## Skills & Technologies
+* Improving **API performance & reliability**
+* Increasing **test coverage**
+* Deploying **production-ready FastAPI services**
 
-py,fastapi,postgres,sqlite,mysql,html,css,git,github,discord,linkedin,mongodb,pycharm,vscode
+---
 
-## Top Projects
+## 🛠 Skills & Technologies
+
+**Backend**
+
+* Python
+* FastAPI
+* SQLAlchemy
+* REST APIs
+
+**Databases**
+
+* PostgreSQL
+* MySQL
+* SQLite
+* MongoDB
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+* PyCharm
+
+**Frontend Basics**
+
+* HTML
+* CSS
+* JavaScript
+
+**Data Tools**
+
+* NumPy
+* Pandas
+
+---
+
+# 🚀 Top Projects
 
 ### 🧺 DrLaundry Web Application
+
 🔗 https://drlaundry.vercel.app
 
-A modern laundry service platform that allows users to schedule pickups, choose services, and track orders online.
+A modern **online laundry service platform** where users can schedule pickups, select services, and track their orders through a clean and responsive interface.
 
 **Tech Stack**
-- Frontend: HTML, CSS, JavaScript
-- Backend: Python (FastAPI)
-- Database: PostgreSQL
-- Deployment: Vercel
+
+* Frontend: HTML, CSS, JavaScript
+* Backend: Python (FastAPI)
+* Database: PostgreSQL
+* Deployment: Vercel
 
 ---
 
 ### ⚡ FastAPI Backend Projects
+
 🔗 https://github.com/KARTIKKUMARSANGADA/FASTAPI
 
-Collection of FastAPI backend projects demonstrating REST API development, authentication, database integration, and scalable backend architecture.
+A collection of backend projects demonstrating **REST API development, authentication systems, and database integration using FastAPI**.
 
 **Tech Stack**
-- Python
-- FastAPI
-- SQLAlchemy
-- PostgreSQL
-- JWT Authentication
+
+* Python
+* FastAPI
+* SQLAlchemy
+* PostgreSQL
+* JWT Authentication
 
 ---
 
 ### 📚 Python Learning & Practice
+
 🔗 https://github.com/KARTIKKUMARSANGADA/Python-Learning
 
-A repository of Python programs and exercises covering core concepts, utilities, and practical coding examples for learning and experimentation.
+A collection of Python exercises, utilities, and algorithm practice programs used to strengthen core Python concepts.
 
 **Tech Stack**
-- Python
-- Algorithms
-- Data Structures
 
-## GitHub Stats
+* Python
+* Algorithms
+* Data Structures
 
-Profile stats card:
+---
 
-![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=KARTIKKUMARSANGADA&show_icons=true&theme=default)
+# 📊 GitHub Stats
 
+![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=KARTIKKUMARSANGADA\&show_icons=true\&theme=default)
 
-## Recent Activity
+---
 
+# 📈 Recent Activity
 
-Here are the most recent events from the GitHub activity feed (latest first):
+* 2026-03-11 — Updated **Python-Learning** repository
+* 2026-03-05 — Updated **FastAPI** repository
+* 2026-03-03 — Backend updates and branch cleanup in **FastAPI**
 
-- 2026-03-11: Pushed changes to **KARTIKKUMARSANGADA/Python-Learning** (multiple commits) ✅
-- 2026-03-11: Pushed changes to **KARTIKKUMARSANGADA/Python-Learning** ✅
-- 2026-03-11: Pushed changes to **KARTIKKUMARSANGADA/Python-Learning** ✅
-- 2026-03-11: Pushed changes to **KARTIKKUMARSANGADA/Python-Learning** ✅
-- 2026-03-05: Pushed changes to **KARTIKKUMARSANGADA/FASTAPI** ✅
-- 2026-03-03: Deleted branch `lms` in **KARTIKKUMARSANGADA/FASTAPI** 🗑️
-- 2026-03-03: Pushed changes to **KARTIKKUMARSANGADA/FASTAPI** ✅
-- 2026-03-03: Pushed changes to **KARTIKKUMARSANGADA/FASTAPI** ✅
-- 2026-03-03: Pushed changes to **KARTIKKUMARSANGADA/FASTAPI** ✅
-- 2026-03-03: Pushed changes to **KARTIKKUMARSANGADA/FASTAPI** ✅
+This reflects active work on **backend APIs and Python learning projects**.
 
-(Shows active development on FastAPI projects and learning-focused Python repos.)
+---
 
-## Latest Blog Posts
+# 🌐 Connect With Me
 
+📧 Email: [kartiksangada2004@gmail.com](mailto:kartiksangada2004@gmail.com)
+💼 LinkedIn: https://www.linkedin.com/in/kartik-sangada-ba8224339
 
-- No dedicated blog posts found in the profile.
-- LinkedIn profile (personal updates, posts, and articles): [www.linkedin.com/in/kartik-sangada-ba8224339](https://www.linkedin.com/in/kartik-sangada-ba8224339)
+---
 
-If you publish technical posts or tutorials, link them here (Dev.to, Medium, personal site, or LinkedIn).
-
-## Connect with Me
-
-kartiksangada2004@gmail.com
+⭐ *Always learning and building scalable backend systems.*
