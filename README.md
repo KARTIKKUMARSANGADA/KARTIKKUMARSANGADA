@@ -27,41 +27,13 @@ Currently focusing on:
 
 ---
 
-## 🛠️ Skills & Technologies 🚀
+## ⚙️ Tech Stack
 
-🔧 Backend
+<p align="center">
 
-🐍 Python
-⚡ FastAPI
-🗄️ SQLAlchemy
-🔗 REST APIs
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,mongodb,sqlite,html,css,js,git,github,vscode,pycharm" />
 
-🗃️ Databases
-
-🐘 PostgreSQL
-🐬 MySQL
-📦 SQLite
-🍃 MongoDB
-
-🛠️ Tools
-
-🔀 Git
-🐙 GitHub
-💻 VS Code
-🧠 PyCharm
-
-🎨 Frontend Basics
-
-🌐 HTML
-🎨 CSS
-⚡ JavaScript
-
-📊 Data Tools
-
-🔢 NumPy
-🐼 Pandas
-
----
+</p>
 
 # 🚀 Top Projects
 
