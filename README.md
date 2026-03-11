@@ -84,6 +84,11 @@ A collection of Python exercises, utilities, and algorithm practice programs use
 
 # 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KARTIKKUMARSANGADA&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIKKUMARSANGADA&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=KARTIKKUMARSANGADA)
 ---
 
 # 📈 Recent Activity
