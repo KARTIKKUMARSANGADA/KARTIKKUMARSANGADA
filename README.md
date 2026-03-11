@@ -27,39 +27,39 @@ Currently focusing on:
 
 ---
 
-## 🛠 Skills & Technologies
+## 🛠️ Skills & Technologies 🚀
 
-**Backend**
+🔧 Backend
 
-* Python
-* FastAPI
-* SQLAlchemy
-* REST APIs
+🐍 Python
+⚡ FastAPI
+🗄️ SQLAlchemy
+🔗 REST APIs
 
-**Databases**
+🗃️ Databases
 
-* PostgreSQL
-* MySQL
-* SQLite
-* MongoDB
+🐘 PostgreSQL
+🐬 MySQL
+📦 SQLite
+🍃 MongoDB
 
-**Tools**
+🛠️ Tools
 
-* Git
-* GitHub
-* VS Code
-* PyCharm
+🔀 Git
+🐙 GitHub
+💻 VS Code
+🧠 PyCharm
 
-**Frontend Basics**
+🎨 Frontend Basics
 
-* HTML
-* CSS
-* JavaScript
+🌐 HTML
+🎨 CSS
+⚡ JavaScript
 
-**Data Tools**
+📊 Data Tools
 
-* NumPy
-* Pandas
+🔢 NumPy
+🐼 Pandas
 
 ---
 
@@ -111,8 +111,6 @@ A collection of Python exercises, utilities, and algorithm practice programs use
 ---
 
 # 📊 GitHub Stats
-
-![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=KARTIKKUMARSANGADA\&show_icons=true\&theme=default)
 
 ---
 
