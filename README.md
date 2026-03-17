@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Kartikkumar Sangada
+# Hi there 👋 I'm Kartik Sangada
 
 🚀 **Backend-Focused Software Engineer | Python & FastAPI Developer**
 
