@@ -17,7 +17,7 @@ jobs:
         uses: platane/snk@v3
         with:
           github_user_name: KARTIKKUMARSANGADA
-          outputs: dist/snake.svg
+          outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v5
