@@ -1,117 +1,123 @@
-# Hi there 👋 I'm Kartik Sangada
+# Hi there 👋 I'm Kartik Sangada  
 
 🚀 **Backend-Focused Software Engineer | Python & FastAPI Developer**
 
-I build reliable, scalable backend systems and high-performance APIs using **Python and FastAPI**.
-My focus is on turning backend logic into **production-ready APIs and dependable data services**.
+I build **scalable backend systems** and **high-performance APIs** using Python and FastAPI.  
+My focus is on transforming backend logic into **production-ready, reliable, and efficient services**.
 
 ---
 
 ## 👨‍💻 About Me
 
-* **Name:** Kartikkumar Sangada
-* **Role:** Backend / API Developer (Python & FastAPI)
-* **Company:** BrainerHub Solutions
-* **Location:** Dahod, India
-* **Email:** [kartiksangada2004@gmail.com](mailto:kartiksangada2004@gmail.com)
-* **LinkedIn:** https://www.linkedin.com/in/kartik-sangada-ba8224339
+- **Name:** Kartikkumar Sangada  
+- **Role:** Backend / API Developer (Python & FastAPI)  
+- **Company:** BrainerHub Solutions  
+- **Location:** Dahod, India  
+- **Email:** kartiksangada2004@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/kartik-sangada-ba8224339  
 
-💡 I specialize in backend development using **Python, FastAPI, and relational databases** such as PostgreSQL and MySQL.
-I also work with **data tools (NumPy, Pandas)** and integrate third-party services like **Twilio and Mailgun** for messaging and email systems.
+💡 I specialize in backend development using **Python**, **FastAPI**, and databases like **PostgreSQL** & **MySQL**.  
+I also work with **NumPy, Pandas**, and integrate services like **Twilio** and **Mailgun**.
 
-Currently focusing on:
+---
 
-* Improving **API performance & reliability**
-* Increasing **test coverage**
-* Deploying **production-ready FastAPI services**
+## 🚀 Current Focus
+
+- Improving **API performance & reliability**  
+- Increasing **test coverage & code quality**  
+- Deploying **production-ready FastAPI services**  
 
 ---
 
 ## ⚙️ Tech Stack
 
-<p align="center">
+**Backend:**  
+Python • FastAPI • SQLAlchemy • REST APIs  
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,mongodb,sqlite,html,css,js,git,github,vscode,pycharm" />
+**Database:**  
+PostgreSQL • MySQL • SQLite • MongoDB  
 
-</p>
+**Tools & Libraries:**  
+NumPy • Pandas • JWT • Sentry  
 
-# 🚀 Top Projects
+**Frontend (Basic):**  
+HTML • CSS • JavaScript  
 
-### 🧺 DrLaundry Web Application
-
-🔗 https://drlaundry.vercel.app
-
-A modern **online laundry service platform** where users can schedule pickups, select services, and track their orders through a clean and responsive interface.
-
-**Tech Stack**
-
-* Frontend: HTML, CSS, JavaScript
-* Backend: Python (FastAPI)
-* Database: PostgreSQL
-* Deployment: Vercel
+**Deployment & Tools:**  
+Vercel • Git • Anaconda  
 
 ---
 
-### ⚡ FastAPI Backend Projects
+## 🚀 Top Projects
 
-🔗 https://github.com/KARTIKKUMARSANGADA/FASTAPI
+### 🧺 DrLaundry Web Application  
+🔗 https://drlaundry.vercel.app  
 
-A collection of backend projects demonstrating **REST API development, authentication systems, and database integration using FastAPI**.
+A modern online laundry platform where users can schedule pickups, select services, and track orders through a responsive UI.
 
-**Tech Stack**
-
-* Python
-* FastAPI
-* SQLAlchemy
-* PostgreSQL
-* JWT Authentication
-
----
-
-### 📚 Python Learning & Practice
-
-🔗 https://github.com/KARTIKKUMARSANGADA/Python-Learning
-
-A collection of Python exercises, utilities, and algorithm practice programs used to strengthen core Python concepts.
-
-**Tech Stack**
-
-* Python
-* Algorithms
-* Data Structures
+**Tech Stack:**  
+Frontend: HTML, CSS, JavaScript  
+Backend: FastAPI  
+Database: PostgreSQL  
+Deployment: Vercel  
 
 ---
 
-# 📊 GitHub Stats
+### 📚 Library Management System  
+🔗 https://github.com/KARTIKKUMARSANGADA/Library-Management-System  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KARTIKKUMARSANGADA&show_icons=true&theme=default)
+A backend-driven library management system designed to handle book inventory, member management, and borrowing workflows through structured APIs.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIKKUMARSANGADA&layout=compact)
+**Key Features:**  
+- Book and user management  
+- Issue/return tracking system  
+- RESTful API design  
+- Database integration  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=KARTIKKUMARSANGADA)
----
-
-# 📈 Recent Activity
-
-* 2026-03-11 — Updated **Python-Learning** repository
-* 2026-03-05 — Updated **FastAPI** repository
-* 2026-03-03 — Backend updates and branch cleanup in **FastAPI**
-
-This reflects active work on **backend APIs and Python learning projects**.
+**Tech Stack:**  
+Python • FastAPI • SQLAlchemy • PostgreSQL  
 
 ---
 
-# 🌐 Connect With Me
+### ⚡ FastAPI Backend Projects  
+🔗 https://github.com/KARTIKKUMARSANGADA/FASTAPI  
 
-📧 Email: [kartiksangada2004@gmail.com](mailto:kartiksangada2004@gmail.com)
-💼 LinkedIn: https://www.linkedin.com/in/kartik-sangada-ba8224339
+Collection of backend projects showcasing API development, authentication, and database integration.
+
+**Tech Stack:**  
+Python • FastAPI • SQLAlchemy • PostgreSQL • JWT  
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=KARTIKKUMARSANGADA&theme=dark&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KARTIKKUMARSANGADA&layout=compact&theme=dark)
+
+![](https://nirzak-streak-stats.vercel.app/?user=KARTIKKUMARSANGADA&theme=dark)
+
+---
+
+## 📈 Recent Activity
+
+- 🟢 2026-03-11 — Updated Python-Learning repository  
+- 🟢 2026-03-05 — Updated FastAPI repository  
+- 🟢 2026-03-03 — Backend updates & cleanup in FastAPI  
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 Email: kartiksangada2004@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/kartik-sangada-ba8224339  
 
 ---
 
 ⭐ *Always learning and building scalable backend systems.*
 
+---
+
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KARTIKKUMARSANGADA/KARTIKKUMARSANGADA/output/snake.svg" />
-</p>
+![Snake animation](https://github.com/KARTIKKUMARSANGADA/KARTIKKUMARSANGADA/blob/output/github-contribution-grid-snake.svg)
