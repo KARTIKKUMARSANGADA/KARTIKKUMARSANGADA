@@ -48,7 +48,7 @@ I also work with **NumPy, Pandas**, and integrate services like **Twilio** and *
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
-![CI](https://github.com/YOUR_USERNAME/fastapi-ci-cd/actions/workflows/ci-cd.yml/badge.svg)
+
 
 **Frontend (Basic):**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
